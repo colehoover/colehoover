@@ -5,7 +5,7 @@
 <h2>Cybersecurity Projects:</h2>
 
   - [SIEM in Azure](https://github.com/colehoover/SIEM-in-Azure)
-  - [Keylogger](https://github.com/colehoover/SIEM-in-Azure)
+  - [Keylogger](https://github.com/colehoover/Keylogger)
   
 
 <h2> Connect with me:</h2>
