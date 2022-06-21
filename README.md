@@ -1,8 +1,18 @@
-### Hi there 👋
+<h1>Hi, I'm Cole! </h1>
+
+<p> I just graduated with a Bachelor's Degree in Computer Engineering from the University of Arkansas. I am trying to break into the cybersecurity field. Below are some personal projects I am working on to increase my skillset. </p>
+
+<h2>Cybersecurity Projects:</h2>
+
+  - [Example Project](URL)
+  - [Project 2](URL)
+
+<h2> Connect with me:</h2>
+
+- LinkedIn: https://linkedin.com/in/cole-hoover
+
 
 <!--
-**colehoover/colehoover** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
