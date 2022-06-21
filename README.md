@@ -4,7 +4,7 @@
 
 <h2>Cybersecurity Projects:</h2>
 
-  - [SIEM in Azure]([URL](https://github.com/colehoover/SIEM-in-Azure))
+  - [SIEM in Azure](https://github.com/colehoover/SIEM-in-Azure)
   
 
 <h2> Connect with me:</h2>
