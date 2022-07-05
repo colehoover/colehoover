@@ -8,6 +8,7 @@
   - [Keylogger](https://github.com/colehoover/Keylogger)
   - [Active Directory Lab](https://github.com/colehoover/ActiveDirectoryLab)
   - [Vulerability Management Lab](https://github.com/colehoover/VulnerabilityManagementLab)
+  - [Encrypted and Authenticated Communications](https://github.com/colehoover/Encrypted-and-Authenticated-Communications)
   
 
 <h2> Connect with me:</h2>
