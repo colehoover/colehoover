@@ -4,10 +4,10 @@
 
 <h2>Cybersecurity Projects:</h2>
 
-  - [SIEM in Azure](https://github.com/colehoover/SIEM-in-Azure)
+ <!-- - [SIEM in Azure](https://github.com/colehoover/SIEM-in-Azure) -->
   - [Keylogger](https://github.com/colehoover/Keylogger)
-  - [Active Directory Lab](https://github.com/colehoover/ActiveDirectoryLab)
-  - [Vulerability Management Lab](https://github.com/colehoover/VulnerabilityManagementLab)
+ <!-- - [Active Directory Lab](https://github.com/colehoover/ActiveDirectoryLab) -->
+ <!-- - [Vulerability Management Lab](https://github.com/colehoover/VulnerabilityManagementLab) -->
   - [Encrypted and Authenticated Communications](https://github.com/colehoover/Encrypted-and-Authenticated-Communications)
   - [Buffer Overflow Attacks](https://github.com/colehoover/Buffer-Overflow-Attacks)
   
