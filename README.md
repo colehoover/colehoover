@@ -7,9 +7,9 @@
   - [Keylogger](https://github.com/colehoover/Keylogger)
   - [Encrypted and Authenticated Communications](https://github.com/colehoover/Encrypted-and-Authenticated-Communications)
   - [Buffer Overflow Attacks](https://github.com/colehoover/Buffer-Overflow-Attacks)
-  - [SIEM in Azure (not yet completed)](https://github.com/colehoover/SIEM-in-Azure) 
-  - [Active Directory Lab (not yet completed)](https://github.com/colehoover/ActiveDirectoryLab) 
-  - [Vulerability Management Lab (not yet completed)](https://github.com/colehoover/VulnerabilityManagementLab) 
+  - [SIEM in Azure (in progress)](https://github.com/colehoover/SIEM-in-Azure) 
+  - [Active Directory Lab (in progress)](https://github.com/colehoover/ActiveDirectoryLab) 
+  - [Vulerability Management Lab (in progress)](https://github.com/colehoover/VulnerabilityManagementLab) 
 
   
 
