@@ -1,6 +1,6 @@
 <h1>Hi, I'm Cole! </h1>
 
-<p> I just graduated with a Bachelor's Degree in Computer Engineering from the University of Arkansas. I am trying to break into the field of cybersecurity. Below are some personal projects I am working on to increase my skillset. </p>
+<p> I recently graduated with a Bachelor's Degree in Computer Engineering from the University of Arkansas. I am trying to break into the field of IT or Cybersecurity. Below are some personal projects I am working on to increase my skillset. </p>
 
 <h2>Cybersecurity Projects:</h2>
 
