@@ -2,7 +2,7 @@
 
 <p> I recently graduated with a Bachelor's Degree in Computer Engineering from the University of Arkansas. I am trying to break into the field of IT or Cybersecurity. Below are some personal projects I am working on to increase my skillset. </p>
 
-<h2>Cybersecurity Projects:</h2>
+<h2>Projects:</h2>
 
   - [Keylogger](https://github.com/colehoover/Keylogger)
   - [Encrypted and Authenticated Communications](https://github.com/colehoover/Encrypted-and-Authenticated-Communications)
