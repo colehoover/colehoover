@@ -8,7 +8,7 @@
   - [Encrypted and Authenticated Communications](https://github.com/colehoover/Encrypted-and-Authenticated-Communications)
   - [Buffer Overflow Attacks](https://github.com/colehoover/Buffer-Overflow-Attacks)
   - [SIEM in Azure](https://github.com/colehoover/SIEM-in-Azure) 
-  - [Active Directory Lab (in progress)](https://github.com/colehoover/ActiveDirectoryLab) 
+  - [Active Directory Lab](https://github.com/colehoover/ActiveDirectoryLab) 
   - [Vulerability Management Lab (in progress)](https://github.com/colehoover/VulnerabilityManagementLab) 
 
   
