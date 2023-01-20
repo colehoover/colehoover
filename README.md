@@ -9,7 +9,7 @@
   - [Buffer Overflow Attacks](https://github.com/colehoover/Buffer-Overflow-Attacks)
   - [SIEM in Azure](https://github.com/colehoover/SIEM-in-Azure) 
   - [Active Directory Lab](https://github.com/colehoover/ActiveDirectoryLab) 
-  - [Vulerability Management Lab (in progress)](https://github.com/colehoover/VulnerabilityManagementLab) 
+  - [Vulerability Management Lab](https://github.com/colehoover/VulnerabilityManagementLab) 
 
   
 
